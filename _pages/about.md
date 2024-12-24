@@ -29,14 +29,15 @@ My research interests have been focusing on illuminating deep Earth structures u
 seismological techniques. With high-resolution subsurface images across multiple scales, I aim to gain insights 
 for Earth's dynamic processes and provide scientific support for natural resource exploration.
 
-At present, I'm working on seismic tomographic imaging of circum-Tibet and African regions, and exploring 
-dynamic processes that influence the generation of mineral deposits.
+At present, I'm working on the seismic tomographic imaging of circum-Tibet and African regions that have great mineral
+resource potentials, and exploring lithospheric dynamic processes that influence the generation of mineral deposits.
 
 As of Dec. 2024, I have first-authored five papers in top-tier geoscience journals (e.g., NC, Geology, GRL).
 <a href="https://scholar.google.com/citations?hl=en&user=-Qts358AAAAJ"><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fbingfeng-zhang%2Fbingfeng-zhang.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
-Please feel free to get in touch if you require any assistance or if you're interested in academic 
-collaboration.
+Please feel free to get in touch if you need anything or if you're interested in academic 
+collaboration. My current email address is bingfeng.zhang@ntu.edu.sg
+
 
 # 🔥 News
 <!--
@@ -57,9 +58,14 @@ collaboration.
 <div class='paper-box-text' markdown="1">
 
 [**Southern Tibetan rifting since late Miocene enabled by basal shear of the underthrusting Indian lithosphere**](images/zhang_2023_nc.pdf)
-- *Quantified depth-varying seismic anisotropy in Tibet*
-- *Identified anisotropy-tectonics correlation*
-- *Unveiled deep control over Tibetan rifting*
+
+Tibet is the largest compressional orogen on Earth, yet it is currently experiencing orogen-wide 
+extension. Multi-phase shear-wave splitting analyses in Tibet reveal a strong correlation between 
+anisotropy and tectonics. In particular, convergence-parallel fast orientations in the deep crust 
+of the southern Tibetan rifts offer compelling evidence of the significant role played by the 
+north-directed shearing (exerted by the underthrusting Indian plate) in facilitating the present-day 
+extension in southern Tibet.
+
 </div>
 </div>
 
@@ -67,8 +73,13 @@ collaboration.
 <div class='paper-box-text' markdown="1">
 
 [**Seismic anisotropy in the central Tien Shan unveils rheology-controlled deformation during intracontinental orogenesis**](images/zhang_2022_geology.pdf)
-- *Researched crustal and mantle anisotropy across CTS*
-- *Discovered rheology‑controlled deformation styles for intracontinental orogens*
+
+This work builds upon Zhang et al. (2020) to present additional constraints on the seismic anisotropy properties 
+in the crust and upper mantle of the central Tien Shan through shear-wave splitting analyses. Across-strike variations of 
+seismic anisotropy are revealed, offering additional evidence of the distinct deformational processes in the northern and 
+southern parts of the Tien Shan. Our observations suggest that the rheological properties of bounding blocks significantly 
+influence the lithospheric deformation modes in intracontinental orogens.
+
 </div>
 </div>
 
@@ -76,8 +87,13 @@ collaboration.
 <div class='paper-box-text' markdown="1">
 
 [**Distinct orogenic processes in the South- and North-Central Tien Shan from receiver functions**](images/zhang_2020_grl.pdf)
-- *Imaged detailed Moho structure beneath CTS*
-- *Unveiled Crustal shortening and thickening in the SCTS and Kazakh underthrusting in NCTS*
+
+We obtain high-resolution images of the Moho structure across the Central Tien Shan (CTS) in Central Asia 
+through RF techniques. An explicit Moho offset is observed in the southern CTS (SCTS) piedmont, which raises 
+questions about the plausibility of the continental subduction scenario of the buoyant Tarim Basin lithosphere 
+beneath the Tien Shan. Instead, we propose that shortening and thickening due to the northward indentation of 
+the Tarim Basin is the primary mode of deformation in the SCTS.
+
 </div>
 </div>
 
@@ -131,7 +147,7 @@ Distinct orogenic processes in the South- and North-Central Tien Shan from recei
 
 <span class='anchor' id='honors-and-awards'></span>
 
-# 🎖 Selected Honors and Awards
+# 🏆 Selected Honors and Awards
 - *Pre-2024*, Excellent Youth Expert Paper Award, Reviews of Geophysics and Planetary Physics
 - *Pre-2024*, Outstanding Student Paper Award, 2022 Annual Meeting of Chinese Geoscience Union
 - *Pre-2024*, National Scholarship for Doctoral Students, Ministry of Education of P.R.China
