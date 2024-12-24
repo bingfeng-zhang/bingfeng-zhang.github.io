@@ -168,7 +168,7 @@ Distinct orogenic processes in the South- and North-Central Tien Shan from recei
 
 <span class='anchor' id='academic-services'></span>
 # 🏛️ Academic Services
-- Peer-reviewer of scientific journals: *JAES*
+- Peer-reviewer of scientific journals: JAES
 
 <!--
 # 💬 Invited Talks
