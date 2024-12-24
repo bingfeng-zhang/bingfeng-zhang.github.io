@@ -6,17 +6,26 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "Publications"
-    url: "/#-publications"
-
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
-
+  - title: "Employments"
+    url: "/#-employments"
+    
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
+  - title: "Research Highlights"
+    url: "/#-research-highlights"
+        
+  - title: "Publications"
+    url: "/#publications"
 
-  - title: "Internships"
-    url: "/#-internships"
+  - title: "Honors and Awards"
+    url: "/#honors-and-awards"
+    
+  #- title: "Funding"
+  #  url: "/#research-funding"    
+
+  - title: "Services"
+    url: "/#academic-services"  
+    
+  #- title: "Invited Talks"
+  #  url: "/#-invited-talks"

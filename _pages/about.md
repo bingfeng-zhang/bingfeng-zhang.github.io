@@ -17,42 +17,162 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am **Bingfeng Zhang**, an observational seismologist, and currently a research fellow at the School of Physical 
+and Mathematical Sciences, Nanyang Technological University <img src='images/ntu.png' style='height: 1.3em;'>, working with 
+Prof. [Ping Tong](https://personal.ntu.edu.sg/tongping/). 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I graduated from Jilin University with a bachelor’s degree in 
+Geophysics in 2018, and then received a Ph.D. degree in Geophysics at Zhejiang University in 2023, supervised 
+by Prof. [Xuewei Bao](https://person.zju.edu.cn/seismology). 
 
+My research interests have been focusing on illuminating deep Earth structures using various modern 
+seismological techniques. With high-resolution subsurface images across multiple scales, I aim to gain insights 
+for Earth's dynamic processes and provide scientific support for natural resource exploration.
+
+At present, I'm working on seismic tomographic imaging of circum-Tibet and African regions, and exploring 
+dynamic processes that influence the generation of mineral deposits.
+
+As of Dec. 2024, I have first-authored five papers in top-tier geoscience journals (e.g., NC, Geology, GRL).
+<a href="https://scholar.google.com/citations?hl=en&user=-Qts358AAAAJ"><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fbingfeng-zhang%2Fbingfeng-zhang.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+
+Please feel free to get in touch if you require any assistance or if you're interested in academic 
+collaboration.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!--
+- *2024.12*: &nbsp;🎉🎉 My dissertation is awarded as ZJU Excellent Doctoral Dissertation
+-->
+- *2024.12*: Hello World
 
-# 📝 Publications 
+# 💼 Employments
+- *2023.12-present*, Research Fellow, Nanyang Technological University, Singapore
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+# 🎓 Educations
+- *2018.09-2023.09*, Ph.D. in Geophysics, Zhejiang University, Hangzhou, China
+- *2014.09-2018.07*, B.S. in Geophysics, Jilin University, Changchun, China
+
+# 💡 Research Highlights
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nat. Commun. 2023</div><img src='images/zhang_2023_nc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Southern Tibetan rifting since late Miocene enabled by basal shear of the underthrusting Indian lithosphere**](images/zhang_2023_nc.pdf)
+- *Quantified depth-varying seismic anisotropy in Tibet*
+- *Identified anisotropy-tectonics correlation*
+- *Unveiled deep control over Tibetan rifting*
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Geology 2022</div><img src='images/zhang_2022_geology.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Seismic anisotropy in the central Tien Shan unveils rheology-controlled deformation during intracontinental orogenesis**](images/zhang_2022_geology.pdf)
+- *Researched crustal and mantle anisotropy across CTS*
+- *Discovered rheology‑controlled deformation styles for intracontinental orogens*
+</div>
+</div>
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Geophys. Res. Lett. 2020</div><img src='images/zhang_2020_grl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[**Distinct orogenic processes in the South- and North-Central Tien Shan from receiver functions**](images/zhang_2020_grl.pdf)
+- *Imaged detailed Moho structure beneath CTS*
+- *Unveiled Crustal shortening and thickening in the SCTS and Kazakh underthrusting in NCTS*
+</div>
+</div>
+
+<span class='anchor' id='publications'></span>
+# 📜 Peer‑reviewed Publications
+<!--
+*corresponding author, <sup>#</sup>co‑first author.
+-->
+
+1. ⭐**Zhang B.**, Bao, X., Wu, Y., Jiang M., <font face="arial">&</font> Zhou K. (2024). 
+Indian Crustal Front beneath Tibet Inferred from Seismic Anisotropy. 
+***<font color="#284f90">Seismological Research Letters</font>***, Early Publication. 
+<a href="https://doi.org/10.1785/0220240103" style="color: #494E52;">https://doi.org/10.1785/0220240103</a>
+\| <a href="images/zhang_2024_srl.pdf" style="color: #494E52;">\[🔗PDF\]</a> <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+1. Fan, J., Bao, X., <font face="arial">&</font> **Zhang B.** (2023). 
+Crustal and upper mantle structure beneath SE China from joint analysis of receiver functions and Rayleigh-wave dispersion. 
+***<font color="#284f90">Geophysical Journal International</font>***, 235(2), 1798-1809. 
+<a href="https://doi.org/10.1093/gji/ggad336" style="color: #494E52;">https://doi.org/10.1093/gji/ggad336</a>
+
+1. ⭐**Zhang B.**, Bao, X., Wu, Y., Xu, Y., <font face="arial">&</font> Yang W. (2023). 
+Southern Tibetan rifting since late Miocene enabled by basal shear of the underthrusting Indian lithosphere. 
+***<font color="#284f90">Nature Communications</font>***, 14, 2565. 
+<a href="https://doi.org/10.1038/s41467-023-38296-w" style="color: #494E52;">https://doi.org/10.1038/s41467-023-38296-w</a> 
+\| <a href="images/zhang_2023_nc.pdf" style="color: #494E52;">\[🔗PDF\]</a> <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+\| **<a href="https://www.zju.edu.cn/2023/0508/c32861a2754172/page.htm" style="color: #FF6666;">[ZJU News]</a>**
+
+1. ⭐**Zhang B.**, <font face="arial">&</font> Bao, X. (2023). 
+Research progress on seismic structures of crust and mantle beneath Tien Shan and their geodynamic implications. 
+***<font color="#284f90">Reviews of Geophysics and Planetary Physics</font>***, 54(1), 27-43 (in Chinese with English abstract). 
+<a href="https://dx.doi.org/10.19975/j.dqyxx.2022-048" style="color: #494E52;">https://dx.doi.org/10.19975/j.dqyxx.2022-048</a>
+\| <a href="images/zhang_2023_rgpp.pdf" style="color: #494E52;">\[🔗PDF\]</a> <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+\| **<a href="https://www.sjdz.org.cn/news/119" style="color: #FF6666;">[Excellent Youth Expert Paper Award]</a>**
+
+1. Wu, Y., Bao, X., **Zhang B.**, Xu, Y. <font face="arial">&</font> Yang W. (2022). 
+Seismic evidence for stepwise lithospheric delamination beneath the Tibetan Plateau. 
+***<font color="#284f90">Geophysical Research Letters</font>***, 49(10), e2022GL098528. 
+<a href="https://doi.org/10.1029/2022gl098528" style="color: #494E52;">https://doi.org/10.1029/2022gl098528</a>
+
+1. ⭐**Zhang B.**, Bao, X., <font face="arial">&</font> Xu, Y. (2022). 
+Seismic anisotropy in the central Tien Shan unveils rheology-controlled deformation during intracontinental orogenesis. 
+***<font color="#284f90">Geology</font>***, 50(7), 812-816. 
+<a href="https://dx.doi.org/10.1130/g49633.1" style="color: #494E52;">https://dx.doi.org/10.1130/g49633.1</a>
+\| <a href="images/zhang_2022_geology.pdf" style="color: #494E52;">\[🔗PDF\]</a> <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+1. ⭐**Zhang B.**, Bao, X., <font face="arial">&</font> Xu, Y. (2020). 
+Distinct orogenic processes in the South- and North-Central Tien Shan from receiver functions. 
+***<font color="#284f90">Geophysical Research Letters</font>***, 47(6), e2019GL086941. 
+<a href="https://dx.doi.org/10.1029/2019gl086941" style="color: #494E52;">https://dx.doi.org/10.1029/2019gl086941</a>
+\| <a href="images/zhang_2020_grl.pdf" style="color: #494E52;">\[🔗PDF\]</a> <strong><span class='show_paper_citations' data='-Qts358AAAAJ:u5HHmVD_uO8C'></span></strong>
+
+<span class='anchor' id='honors-and-awards'></span>
+
+# 🎖 Selected Honors and Awards
+- *Pre-2024*, Excellent Youth Expert Paper Award, Reviews of Geophysics and Planetary Physics
+- *Pre-2024*, Outstanding Student Paper Award, 2022 Annual Meeting of Chinese Geoscience Union
+- *Pre-2024*, National Scholarship for Doctoral Students, Ministry of Education of P.R.China
+- *Pre-2024*, Outstanding Student Paper Award, 3rd Youth Academic Forum about Structural Geology and Geodynamics
+
+<!-- Full Award List as Students
+- *2023*, Excellent Youth Expert Paper Award, Reviews of Geophysics and Planetary Physics
+- *2022*, School Top 10 Scientific Advances by Doctoral Students, Zhejiang University
+- *2022*, Outstanding Student Paper Award, 2022 Annual Meeting of Chinese Geoscience Union
+- *2022*, National Scholarship for Doctoral Students, Ministry of Education of P.R.China
+- *2022*, Merit Graduate Student, Zhejiang University
+- *2022*, Outstanding Graduate Student, Zhejiang University
+- *2020*, Outstanding Student Paper Award, 3rd Youth Academic Forum about Structural Geology and Geodynamics
+- *2020*, Merit Graduate Student, Zhejiang University
+- *2020*, Outstanding Graduate Student, Zhejiang University
+- *2018*, Scholarship for Newly-enrolled Ph.D. Student, Zhejiang University
+- *2018*, University Excellent Student, Jilin University
+- *2018*, First Class Scholarship, Jilin University
+- *2017*, Individual Scholarship, Jilin University
+- *2017*, College Excellent Student, Jilin University
+- *2017*, Second Class Scholarship, Jilin University
+- *2016*, University Excellent Student, Jilin University
+- *2016*, First Class Scholarship, Jilin University
+- *2015*, Second Class Scholarship, Jilin University
+-->
+
+<!--
+<span class='anchor' id='research-funding'></span>
+# 💴 Research Funding
+-->
+<!-- Received Funding as Students
+- *2022.07-2023.06*, Zhejiang University, Grant for Establishing Outstanding Doctorate Dissertation, PI
+-->
+
+<span class='anchor' id='academic-services'></span>
+# 🏛️ Academic Services
+- Peer-reviewer of scientific journals: *JAES*
+
+<!--
 # 💬 Invited Talks
+-->
+<!-- Template
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+-->
