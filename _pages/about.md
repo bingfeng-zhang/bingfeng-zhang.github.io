@@ -59,12 +59,11 @@ collaboration. My current email address is bingfeng.zhang@ntu.edu.sg
 
 [**Southern Tibetan rifting since late Miocene enabled by basal shear of the underthrusting Indian lithosphere**](images/zhang_2023_nc.pdf)
 
-Tibet is the largest compressional orogen on Earth, yet it is currently experiencing orogen-wide 
-extension. Multi-phase shear-wave splitting analyses in Tibet reveal a strong correlation between 
-anisotropy and tectonics. In particular, convergence-parallel fast orientations in the deep crust 
-of the southern Tibetan rifts offer compelling evidence of the significant role played by the 
-north-directed shearing (exerted by the underthrusting Indian plate) in facilitating the present-day 
-extension in southern Tibet.
+**<font color="#6666CC">Tibet</font>** is the largest compressional orogen on Earth, yet it is currently experiencing orogen-wide 
+extension. We conduct multi-phase **<font color="#666600">shear-wave splitting</font>** analyses in Tibet, which reveal a strong correlation between 
+anisotropy and tectonics. In particular, **<font color="#CC6699">convergence-parallel fast orientations</font>** in the deep crust 
+of the southern Tibetan rifts offer compelling evidence of 
+***<font color="#993333">the significant role played by the north-directed shearing (exerted by the underthrusting Indian plate) in facilitating the present-day extension in southern Tibet</font>***.
 
 </div>
 </div>
@@ -75,10 +74,10 @@ extension in southern Tibet.
 [**Seismic anisotropy in the central Tien Shan unveils rheology-controlled deformation during intracontinental orogenesis**](images/zhang_2022_geology.pdf)
 
 This work builds upon Zhang et al. (2020) to present additional constraints on the seismic anisotropy properties 
-in the crust and upper mantle of the central Tien Shan through shear-wave splitting analyses. Across-strike variations of 
-seismic anisotropy are revealed, offering additional evidence of the distinct deformational processes in the northern and 
-southern parts of the Tien Shan. Our observations suggest that the rheological properties of bounding blocks significantly 
-influence the lithospheric deformation modes in intracontinental orogens.
+in the crust and upper mantle of the central **<font color="#6666CC">Tien Shan</font>** through **<font color="#666600">shear-wave splitting</font>** 
+analyses. **<font color="#CC6699">Across-strike variations of seismic anisotropy</font>** are revealed, offering additional evidence of the distinct deformational processes in the northern and 
+southern parts of the Tien Shan. Our observations suggest that 
+***<font color="#993333">the rheological properties of bounding blocks significantly influence the lithospheric deformation modes in intracontinental orogens</font>***.
 
 </div>
 </div>
@@ -88,11 +87,15 @@ influence the lithospheric deformation modes in intracontinental orogens.
 
 [**Distinct orogenic processes in the South- and North-Central Tien Shan from receiver functions**](images/zhang_2020_grl.pdf)
 
-We obtain high-resolution images of the Moho structure across the Central Tien Shan (CTS) in Central Asia 
-through RF techniques. An explicit Moho offset is observed in the southern CTS (SCTS) piedmont, which raises 
+We obtain high-resolution images of the Moho structure across the Central 
+**<font color="#6666CC">Tien Shan</font>** (CTS) in Central Asia 
+through **<font color="#666600">RF</font>** 
+techniques. An explicit **<font color="#CC6699">Moho offset</font>** 
+is observed in the southern CTS (SCTS) piedmont, which raises 
 questions about the plausibility of the continental subduction scenario of the buoyant Tarim Basin lithosphere 
-beneath the Tien Shan. Instead, we propose that shortening and thickening due to the northward indentation of 
-the Tarim Basin is the primary mode of deformation in the SCTS.
+beneath the Tien Shan. Instead, we propose that 
+***<font color="#993333">shortening and thickening due to the northward indentation of the Tarim Basin</font>*** 
+is the primary mode of deformation in the SCTS.
 
 </div>
 </div>
