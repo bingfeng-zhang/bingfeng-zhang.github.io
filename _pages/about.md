@@ -40,9 +40,7 @@ collaboration. My current email address is bingfeng.zhang@ntu.edu.sg
 
 
 # 🔥 News
-<!--
 - *2024.12*: &nbsp;🎉🎉 My dissertation is awarded as ZJU Excellent Doctoral Dissertation
--->
 - *2024.12*: Hello World
 
 # 💼 Employments
@@ -108,11 +106,11 @@ is the primary mode of deformation in the SCTS.
 *corresponding author, <sup>#</sup>co‑first author.
 -->
 
-1. ⭐**Zhang B.**, Bao, X., Wu, Y., Jiang M., <font face="arial">&</font> Zhou K. (2024). 
+1. ⭐**Zhang B.**, Bao, X., Wu, Y., Jiang M., <font face="arial">&</font> Zhou K. (2025). 
 Indian Crustal Front beneath Tibet Inferred from Seismic Anisotropy. 
-***<font color="#284f90">Seismological Research Letters</font>***, Early Publication. 
+***<font color="#284f90">Seismological Research Letters</font>***, 96(1), 449-460. 
 <a href="https://doi.org/10.1785/0220240103" style="color: #494E52;">https://doi.org/10.1785/0220240103</a>
-\| <a href="images/zhang_2024_srl.pdf" style="color: #494E52;">\[🔗PDF\]</a> <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+\| <a href="images/zhang_2025_srl.pdf" style="color: #494E52;">\[🔗PDF\]</a> <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 1. Fan, J., Bao, X., <font face="arial">&</font> **Zhang B.** (2023). 
 Crustal and upper mantle structure beneath SE China from joint analysis of receiver functions and Rayleigh-wave dispersion. 
@@ -153,6 +151,7 @@ Distinct orogenic processes in the South- and North-Central Tien Shan from recei
 <span class='anchor' id='honors-and-awards'></span>
 
 # 🏆 Selected Honors and Awards
+- *2024*, Excellent Doctoral Dissertation, Zhejiang University
 - *Pre-2024*, Excellent Youth Expert Paper Award, Reviews of Geophysics and Planetary Physics
 - *Pre-2024*, Outstanding Student Paper Award, 2022 Annual Meeting of Chinese Geoscience Union
 - *Pre-2024*, National Scholarship for Doctoral Students, Ministry of Education of P.R.China
