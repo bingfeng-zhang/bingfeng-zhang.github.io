@@ -32,7 +32,7 @@ for Earth's dynamic processes and provide scientific support for natural resourc
 At present, I'm working on the seismic tomographic imaging of circum-Tibet and African regions that have great mineral
 resource potentials, and exploring lithospheric dynamic processes that influence the generation of mineral deposits.
 
-As of Dec. 2024, I have first-authored six papers in top-tier geoscience journals (e.g., NC, Geology, GRL, JGR).
+As of Nov. 2025, I have first-authored six papers in top-tier geoscience journals (e.g., NC, Geology, GRL, JGR).
 <a href="https://scholar.google.com/citations?hl=en&user=-Qts358AAAAJ"><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fbingfeng-zhang%2Fbingfeng-zhang.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 Please feel free to get in touch if you need anything or if you're interested in academic 
@@ -123,7 +123,7 @@ Crustal structure and seismogenic environment for the January 2025 Mw 7.1 southe
 <a href="https://doi.org/10.1029/2025JB032001" style="color: #494E52;">https://doi.org/10.1029/2025JB032001</a>
 \| <a href="images/zhang_2025_jgr.pdf" style="color: #494E52;">\[🔗PDF\]</a> <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
-1. Xu, M., Hao, S., Chen, J., <font face="arial">&</font> **Zhang B.**, <font face="arial">&</font> Tong, P. (2025). 
+1. Xu, M., Hao, S., Chen, J., **Zhang B.**, <font face="arial">&</font> Tong, P. (2025). 
 SurfATT: High‐performance package for adjoint‐state surface‐wave travel‐time tomography. 
 ***<font color="#284f90">Seismological Research Letters</font>***, 96(4), 2638-2646. 
 <a href="https://doi.org/10.1785/0220240206" style="color: #494E52;">https://doi.org/10.1785/0220240206</a>
