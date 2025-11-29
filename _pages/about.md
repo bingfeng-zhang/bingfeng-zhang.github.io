@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am **Bingfeng Zhang**, an observational seismologist, and currently a research fellow at the School of Physical 
+I am **Bingfeng Zhang**, specializing in observational seismology, and currently a research fellow at the School of Physical 
 and Mathematical Sciences, Nanyang Technological University <img src='images/ntu.png' style='height: 1.3em;'>, working with 
 Prof. [Ping Tong](https://personal.ntu.edu.sg/tongping/). 
 
@@ -32,7 +32,7 @@ for Earth's dynamic processes and provide scientific support for natural resourc
 At present, I'm working on the seismic tomographic imaging of circum-Tibet and African regions that have great mineral
 resource potentials, and exploring lithospheric dynamic processes that influence the generation of mineral deposits.
 
-As of Dec. 2024, I have first-authored five papers in top-tier geoscience journals (e.g., NC, Geology, GRL).
+As of Dec. 2024, I have first-authored six papers in top-tier geoscience journals (e.g., NC, Geology, GRL, JGR).
 <a href="https://scholar.google.com/citations?hl=en&user=-Qts358AAAAJ"><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fbingfeng-zhang%2Fbingfeng-zhang.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 Please feel free to get in touch if you need anything or if you're interested in academic 
@@ -40,6 +40,7 @@ collaboration. My current email address is bingfeng.zhang@ntu.edu.sg
 
 
 # 🔥 News
+- *2025.10*: &nbsp;🎉🎉 Our paper on 2025 M7.1 Dingri earthquake is accepted by JGR
 - *2024.12*: &nbsp;🎉🎉 My dissertation is awarded as ZJU Excellent Doctoral Dissertation
 - *2024.12*: Hello World
 
@@ -51,6 +52,16 @@ collaboration. My current email address is bingfeng.zhang@ntu.edu.sg
 - *2014.09-2018.07*, B.S. in Geophysics, Jilin University, Changchun, China
 
 # 💡 Research Highlights
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JGR: Solid Earth 2025</div><img src='images/zhang_2025_jgr.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Crustal structure and seismogenic environment for the January 2025 Mw 7.1 southern Tibet (Dingri) earthquake**](images/zhang_2025_jgr.pdf)
+
+The Dingri earthquake ranks among the largest continental normal‐faulting events worldwide. We derive azimuthally anisotropic velocity models of its source region using *<font color="#666600">adjoint‐state traveltime tomography</font>* to investigate its seismogenic mechanisms. Our results confirm the role of basal shear and fluid upwelling in Tibetan rifting and reveal a *<font color="#993333">fault asperity</font>* with *<font color="#CC6699">negligible anisotropy</font>* that is associated with the Lhagai gneiss dome, emphasizing the need to assess seismic hazards in southern *<font color="#6666CC">Tibetan</font>* rift zones that intersect the Himalayan gneiss belt.
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nat. Commun. 2023</div><img src='images/zhang_2023_nc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -106,8 +117,19 @@ is the primary mode of deformation in the SCTS.
 *corresponding author, <sup>#</sup>co‑first author.
 -->
 
-1. ⭐**Zhang B.**, Bao, X., Wu, Y., Jiang M., <font face="arial">&</font> Zhou K. (2025). 
-Indian Crustal Front beneath Tibet Inferred from Seismic Anisotropy. 
+1. ⭐**Zhang B.**, Tan, H., Xiao, X., Wang, D., Bai, Y., Li, T., Hao, S., Chen, J., Yao, J., Bao, X., <font face="arial">&</font> Tong, P. (2025). 
+Crustal structure and seismogenic environment for the January 2025 Mw 7.1 southern Tibet (Dingri) earthquake. 
+***<font color="#284f90">Journal of Geophysical Research: Solid Earth</font>***, 130(11), e2025JB032001. 
+<a href="https://doi.org/10.1029/2025JB032001" style="color: #494E52;">https://doi.org/10.1029/2025JB032001</a>
+\| <a href="images/zhang_2025_jgr.pdf" style="color: #494E52;">\[🔗PDF\]</a> <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+1. Xu, M., Hao, S., Chen, J., <font face="arial">&</font> **Zhang B.**, <font face="arial">&</font> Tong, P. (2025). 
+SurfATT: High‐performance package for adjoint‐state surface‐wave travel‐time tomography. 
+***<font color="#284f90">Seismological Research Letters</font>***, 96(4), 2638-2646. 
+<a href="https://doi.org/10.1785/0220240206" style="color: #494E52;">https://doi.org/10.1785/0220240206</a>
+
+1. ⭐**Zhang B.**, Bao, X., Wu, Y., Jiang, M., <font face="arial">&</font> Zhou, K. (2025). 
+Indian crustal front beneath Tibet inferred from seismic anisotropy. 
 ***<font color="#284f90">Seismological Research Letters</font>***, 96(1), 449-460. 
 <a href="https://doi.org/10.1785/0220240103" style="color: #494E52;">https://doi.org/10.1785/0220240103</a>
 \| <a href="images/zhang_2025_srl.pdf" style="color: #494E52;">\[🔗PDF\]</a> <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
@@ -117,7 +139,7 @@ Crustal and upper mantle structure beneath SE China from joint analysis of recei
 ***<font color="#284f90">Geophysical Journal International</font>***, 235(2), 1798-1809. 
 <a href="https://doi.org/10.1093/gji/ggad336" style="color: #494E52;">https://doi.org/10.1093/gji/ggad336</a>
 
-1. ⭐**Zhang B.**, Bao, X., Wu, Y., Xu, Y., <font face="arial">&</font> Yang W. (2023). 
+1. ⭐**Zhang B.**, Bao, X., Wu, Y., Xu, Y., <font face="arial">&</font> Yang, W. (2023). 
 Southern Tibetan rifting since late Miocene enabled by basal shear of the underthrusting Indian lithosphere. 
 ***<font color="#284f90">Nature Communications</font>***, 14, 2565. 
 <a href="https://doi.org/10.1038/s41467-023-38296-w" style="color: #494E52;">https://doi.org/10.1038/s41467-023-38296-w</a> 
@@ -131,7 +153,7 @@ Research progress on seismic structures of crust and mantle beneath Tien Shan an
 \| <a href="images/zhang_2023_rgpp.pdf" style="color: #494E52;">\[🔗PDF\]</a> <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 \| **<a href="https://www.sjdz.org.cn/news/119" style="color: #FF6666;">[Excellent Youth Expert Paper Award]</a>**
 
-1. Wu, Y., Bao, X., **Zhang B.**, Xu, Y. <font face="arial">&</font> Yang W. (2022). 
+1. Wu, Y., Bao, X., **Zhang B.**, Xu, Y. <font face="arial">&</font> Yang, W. (2022). 
 Seismic evidence for stepwise lithospheric delamination beneath the Tibetan Plateau. 
 ***<font color="#284f90">Geophysical Research Letters</font>***, 49(10), e2022GL098528. 
 <a href="https://doi.org/10.1029/2022gl098528" style="color: #494E52;">https://doi.org/10.1029/2022gl098528</a>
@@ -188,7 +210,7 @@ Distinct orogenic processes in the South- and North-Central Tien Shan from recei
 
 <span class='anchor' id='academic-services'></span>
 # 🏛️ Academic Services
-- Peer-reviewer of scientific journals: JAES
+- Peer-reviewer of scientific journals: JGR, JAES
 
 <!--
 # 💬 Invited Talks
