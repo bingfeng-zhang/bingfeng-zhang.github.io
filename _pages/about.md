@@ -32,7 +32,7 @@ for Earth's dynamic processes and provide scientific support for natural resourc
 At present, I'm working on the seismic tomographic imaging of circum-Tibet and African regions that have great mineral
 resource potentials, and exploring lithospheric dynamic processes that influence the generation of mineral deposits.
 
-As of Nov. 2025, I have first-authored six papers in top-tier geoscience journals (e.g., NC, Geology, GRL, JGR).
+As of Jan. 2026, I have first-authored seven papers in top-tier geoscience journals (e.g., NC, Geology, EPSL, GRL, JGR).
 <a href="https://scholar.google.com/citations?hl=en&user=-Qts358AAAAJ"><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fbingfeng-zhang%2Fbingfeng-zhang.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 Please feel free to get in touch if you need anything or if you're interested in academic 
@@ -40,6 +40,7 @@ collaboration. My current email address is bingfeng.zhang@ntu.edu.sg
 
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉🎉 Our paper on induced seismicity of the Luxian is accepted by EPSL
 - *2025.10*: &nbsp;🎉🎉 Our paper on 2025 M7.1 Dingri earthquake is accepted by JGR
 - *2024.12*: &nbsp;🎉🎉 My dissertation is awarded as ZJU Excellent Doctoral Dissertation
 - *2024.12*: Hello World
@@ -52,6 +53,16 @@ collaboration. My current email address is bingfeng.zhang@ntu.edu.sg
 - *2014.09-2018.07*, B.S. in Geophysics, Jilin University, Changchun, China
 
 # 💡 Research Highlights
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Earth Planet. Sci. Lett. 2026</div><img src='images/zhang_2026_epsl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Induced seismicity in the southern Sichuan basin regulated by heterogeneous folding**](images/zhang_2026_epsl.pdf)
+
+Luxian, a key shale gas field in *<font color="#6666CC">Sichuan</font>*, was struck by an Ms 6.0 induced earthquake in 2021. To characterize the seismogenic environment there, we constructed a sedimentary Vs model by *<font color="#666600">ambient-noise tomography</font>* and analyzed focal mechanisms via *<font color="#666600">ISOLA</font>*. Our results reveal that *<font color="#CC6699">synclinal LVZs</font>* are controlled by *<font color="#993333">heterogeneous strain intensities</font>* linked to variations in décollement depth. Notably, seismicity across all magnitudes clusters along *<font color="#CC6699">the margins of these LVZs</font>* within marine strata. These boundaries represent high-risk zones for induced events and should be prioritized for future seismic hazard mitigation.
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JGR: Solid Earth 2025</div><img src='images/zhang_2025_jgr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -116,6 +127,17 @@ is the primary mode of deformation in the SCTS.
 <!--
 *corresponding author, <sup>#</sup>co‑first author.
 -->
+
+1. Bai, Y., Wei, S., Chen, J., Li, T., **Zhang B.**, Xiao, X., Wu, S., Yao, J., Wang, Y., <font face="arial">&</font> Tong, P. (2026). 
+Structural heterogeneity and anisotropy beneath Myanmar: Insights into the complex deformation of the Indo-Burma subduction zone. 
+***<font color="#284f90">Earth and Planetary Science Letters</font>***, 679, 119879. 
+<a href="https://doi.org/10.1016/j.epsl.2026.119879" style="color: #494E52;">https://doi.org/10.1016/j.epsl.2026.119879</a>
+
+1. ⭐**Zhang B.**, Bao, X., Jiang, M., <font face="arial">&</font> Zhou, K. (2026). 
+Induced seismicity in the southern Sichuan basin regulated by heterogeneous folding. 
+***<font color="#284f90">Earth and Planetary Science Letters</font>***, 679, 119860. 
+<a href="https://doi.org/10.1016/j.epsl.2026.119860" style="color: #494E52;">https://doi.org/10.1016/j.epsl.2026.119860</a>
+\| <a href="images/zhang_2026_epsl.pdf" style="color: #494E52;">\[🔗PDF\]</a> <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 1. ⭐**Zhang B.**, Tan, H., Xiao, X., Wang, D., Bai, Y., Li, T., Hao, S., Chen, J., Yao, J., Bao, X., <font face="arial">&</font> Tong, P. (2025). 
 Crustal structure and seismogenic environment for the January 2025 Mw 7.1 southern Tibet (Dingri) earthquake. 
