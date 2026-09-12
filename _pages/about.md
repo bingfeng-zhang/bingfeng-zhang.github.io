@@ -32,7 +32,7 @@ for Earth's dynamic processes and provide scientific support for natural resourc
 At present, I'm working on the seismic tomographic imaging of circum-Tibet and African regions that have great mineral
 resource potentials, and exploring lithospheric dynamic processes that influence the generation of mineral deposits.
 
-As of Jan. 2026, I have first-authored seven papers in top-tier geoscience journals (e.g., NC, Geology, EPSL, GRL, JGR).
+As of Sep. 2026, I have first-authored eight papers in top-tier geoscience journals (e.g., NC, Geology, EPSL, GRL, JGR).
 <a href="https://scholar.google.com/citations?hl=en&user=-Qts358AAAAJ"><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fbingfeng-zhang%2Fbingfeng-zhang.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 Please feel free to get in touch if you need anything or if you're interested in academic 
@@ -40,10 +40,17 @@ collaboration. My current email address is bingfeng.zhang@ntu.edu.sg
 
 
 # 🔥 News
+
+<div class="show-more-section" data-show-more data-item-selector="li" data-batch-size="5" markdown="1">
+
+- *2026.08*: &nbsp;🎉🎉 Our paper on surface-wave tomography in the Pamir is accepted by GRL
+- *2026.02*: &nbsp;🎉🎉 My dissertation is nominated as Outstanding Doctoral Dissertation of Zhejiang Province
 - *2026.01*: &nbsp;🎉🎉 Our paper on induced seismicity of the Luxian is accepted by EPSL
 - *2025.10*: &nbsp;🎉🎉 Our paper on 2025 M7.1 Dingri earthquake is accepted by JGR
-- *2024.12*: &nbsp;🎉🎉 My dissertation is awarded as ZJU Excellent Doctoral Dissertation
+- *2024.12*: &nbsp;🎉🎉 My dissertation is awarded as ZJU Outstanding Doctoral Dissertation
 - *2024.12*: Hello World
+
+</div>
 
 # 💼 Employments
 - *2023.12-present*, Research Fellow, Nanyang Technological University, Singapore
@@ -53,6 +60,18 @@ collaboration. My current email address is bingfeng.zhang@ntu.edu.sg
 - *2014.09-2018.07*, B.S. in Geophysics, Jilin University, Changchun, China
 
 # 💡 Research Highlights
+
+<div class="show-more-section" data-show-more data-item-selector=".paper-box" data-batch-size="5">
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Geophys. Res. Lett. 2026</div><img src='images/zhang_2026_grl.png' alt="Crustal shear-wave velocity structure and partial melt beneath the Pamir" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Melt-regulated crustal kinematics in the Pamir, NW Tibetan Plateau: Insights from surface-wave tomography**](images/zhang_2026_grl.pdf)
+
+The *<font color="#6666CC">Pamir</font>* is undergoing E–W extension accommodated by micro-block motions along major faults. Using an expanded Rayleigh‐wave dispersion data set and *<font color="#666600">adjoint-state surface-wave traveltime tomography</font>*, we construct an updated crustal shear-wave velocity model and identify *<font color="#CC6699">middle-to-lower-crustal low-velocity zones containing low-degree partial melt</font>* beneath the major fault systems. These melts substantially weaken the deep crust, localize strain, and promote fault development, showing that *<font color="#993333">melt distribution regulates modern micro-block kinematics in the Pamir</font>*.
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Earth Planet. Sci. Lett. 2026</div><img src='images/zhang_2026_epsl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -122,11 +141,29 @@ is the primary mode of deformation in the SCTS.
 </div>
 </div>
 
+</div>
+
 <span class='anchor' id='publications'></span>
 # 📜 Peer‑reviewed Publications
 <!--
 *corresponding author, <sup>#</sup>co‑first author.
 -->
+
+1. ⭐**Zhang B.**, Hao, S., Bao, X., <font face="arial">&</font> Tong, P. (2026). 
+Melt‐regulated crustal kinematics in the Pamir, NW Tibetan Plateau: Insights from surface‐wave tomography. 
+***<font color="#284f90">Geophysical Research Letters</font>***, 53(17), e2026GL124055. 
+<a href="https://doi.org/10.1029/2026GL124055" style="color: #494E52;">https://doi.org/10.1029/2026GL124055</a>
+\| <a href="images/zhang_2026_grl.pdf" style="color: #494E52;">\[🔗PDF\]</a>
+
+1. Chen, J., Li, T., Xiao, X., Wu, S., Bai, Y., Chen, G., **Zhang B.**, Xu, M., <font face="arial">&</font> Tong, P. (2026). 
+Crustal anisotropic velocity structure beneath California constrained by P and PmP traveltimes: Implications for fluid-promoted creeping along the central San Andreas Fault. 
+***<font color="#284f90">Earth and Planetary Science Letters</font>***, 691, 120223. 
+<a href="https://doi.org/10.1016/j.epsl.2026.120223" style="color: #494E52;">https://doi.org/10.1016/j.epsl.2026.120223</a>
+
+1. Wu, Y., Bao, X., Jiang, M., **Zhang B.**, <font face="arial">&</font> Song, W. (2026). 
+The significance of inherited crustal thickening in surface uplift of Hangai Dome in central Mongolia. 
+***<font color="#284f90">Geophysical Research Letters</font>***, 53(13), e2026GL122916. 
+<a href="https://doi.org/10.1029/2026GL122916" style="color: #494E52;">https://doi.org/10.1029/2026GL122916</a>
 
 1. Bai, Y., Wei, S., Chen, J., Li, T., **Zhang B.**, Xiao, X., Wu, S., Yao, J., Wang, Y., <font face="arial">&</font> Tong, P. (2026). 
 Structural heterogeneity and anisotropy beneath Myanmar: Insights into the complex deformation of the Indo-Burma subduction zone. 
@@ -195,7 +232,8 @@ Distinct orogenic processes in the South- and North-Central Tien Shan from recei
 <span class='anchor' id='honors-and-awards'></span>
 
 # 🏆 Selected Honors and Awards
-- *2024*, Excellent Doctoral Dissertation, Zhejiang University
+- *2025*, Outstanding Doctoral Dissertation Nomination Award, Zhejiang Province
+- *2024*, Outstanding Doctoral Dissertation Award, Zhejiang University
 - *Pre-2024*, Excellent Youth Expert Paper Award, Reviews of Geophysics and Planetary Physics
 - *Pre-2024*, Outstanding Student Paper Award, 2022 Annual Meeting of Chinese Geoscience Union
 - *Pre-2024*, National Scholarship for Doctoral Students, Ministry of Education of P.R.China
